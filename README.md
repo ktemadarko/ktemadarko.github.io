@@ -9,8 +9,15 @@ She is an ardent Public Health educator seeking opportunities to learn and grow 
 
 Developed a children's YouTube series to engage Ghanaian children to know and practise the COVID-19 safety protocol.
 
-Here is a link to one of the COVID-19 education videos: https://youtu.be/hzvWUvaPJLU## Welcome to GitHub Pages
+Here is a link to one of the COVID-19 education videos: https://youtu.be/hzvWUvaPJLU 
 
+
+
+## Breast Cancer Project 
+I wanted to create a SQL databse
+-Genderize.io to predict gender in Google Sheets
+-split first name and other names into columns
+-create patient and hospital id to anonymize data
 
 - Bulleted
 - List
