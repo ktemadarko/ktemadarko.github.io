@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Introduction
+Ama Owusu-Darko was a MasterCard Foundation Scholar at Arizona State University graduating with an Interdisciplinary Bachelor's degree focused on Natural Sciences.
 
-You can use the [editor on GitHub](https://github.com/ktemadarko/SQL_Challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently pursuing her masters in Public Health at Ensign College of Public Health in Ghana.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+She is an ardent Public Health educator seeking opportunities to learn and grow with companies using technology to optimize healthcare delivery.
 
-### Markdown
+### Parternship with PAVE Health, NGO in Ghana to provide credible information about COVID-19 prevention to the Ghanaian public.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Developed a children's YouTube series to engage Ghanaian children to know and practise the COVID-19 safety protocol.
 
-```markdown
-Syntax highlighted code block
+Here is a link to one of the COVID-19 education videos: https://youtu.be/hzvWUvaPJLU## Welcome to GitHub Pages
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,15 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](C:\Users\MPH\Pictures\Herr.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ktemadarko/SQL_Challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
